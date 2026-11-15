@@ -6,13 +6,13 @@
 
 *World of Warcraft addons, built with the seriousness of a heavy civil construction firm and the urgency of a guy who just missed a fishing pool.*
 
+<a href="https://github.com/TIMID-Group/WoW-Forever-Addons"><img alt="WoW Forever Addons: the addons, install guide and reports" src="https://img.shields.io/badge/WoW%20Forever%20Addons-the%20addons%2C%20install%20and%20reports%20%E2%86%92-8a2be2?style=for-the-badge" height="56"></a>
+
 ![staff](https://img.shields.io/badge/staff-1-blue)
 ![addons shipped](https://img.shields.io/badge/addons%20shipped-5-2ea44f)
 ![taint errors](https://img.shields.io/badge/taint%20errors-0%20(target)-brightgreen)
 ![fishing poles vendored](https://img.shields.io/badge/fishing%20poles%20vendored-0-brightgreen)
 ![board approval](https://img.shields.io/badge/board%20approval-pending-yellow)
-
-[Overview](#-overview) · [Product Portfolio](#-product-portfolio) · [Key Functions](#%EF%B8%8F-key-functions) · [Strategic Goals](#-strategic-goals) · [Known Risks](#%EF%B8%8F-known-risks) · [Installation](#-installation) · [Contributing](#-contributing)
 
 </div>
 
@@ -34,10 +34,12 @@ To seamlessly integrate useful tools into the game client, eliminate repetitive 
 
 ## 📦 Product Portfolio
 
-All current products serve the **WoW Forever** client and are listed, with install guides, on **[WoW Forever Addons](https://github.com/TIMID-Group/WoW-Forever-Addons)**.
+| Division | Status |
+|---|---|
+| **[WoW Forever Addons](https://github.com/TIMID-Group/WoW-Forever-Addons)**: five addons for the WoW Forever client (fishing, professions, the auction house and quest clean-up) | Released |
+| *Next project* | Under review by the Board. Pending managerial approval (the manager is also the developer). |
 
-| | Addon | Status | Description |
-|---|---|---|---|
+---|---|---|---|
 | 🎣 | **Forever Fishing Chart** | Released, invite only | Interactive fishing map built on the game's own world map. Waters, skill requirements, time-of-day rates and catch data where you actually need them, plus a fish finder and your own catch log. |
 | 💰 | **Forever Lowball** | Released, invite only | Holds a price ceiling on the auction house: posts your wall, buys what undercuts it, and reports every session's profit and gold per hour. |
 | 🛠️ | **Forever Workbench** | Released, invite only | A richer profession window: materials on hand on every recipe, vendor materials bought for you, and your crafts sold back. |
@@ -97,7 +99,7 @@ Smooth transitions from cast to bobber to loot to next cast. Metric: reduction i
 Every TIMID addon follows the same structure, settings conventions, and slash command style, so learning one teaches you all of them.
 
 **Reduced Complexity and Increased Data Accuracy**
-Simple tools with correct data beat clever tools with wrong data. Community corrections are welcome and encouraged (see [Contributing](#-contributing)).
+Simple tools with correct data beat clever tools with wrong data. Community corrections are welcome and encouraged (see [Correspondence](#-correspondence)).
 
 **Strategic Flexibility**
 Whether the realm grows, the patch changes, or the department reduces in size (it is already one person), TIMID provides a systematic infrastructure adaptable to any scenario.
@@ -135,21 +137,9 @@ Whether the realm grows, the patch changes, or the department reduces in size (i
 
 ---
 
-## 📥 Installation
+## 📮 Correspondence
 
-[WoW Forever Addons](https://github.com/TIMID-Group/WoW-Forever-Addons#-install) has the full guide (WowUp, manual, or let an AI agent do it). In general:
-
-1. Download the latest release from the addon's **Releases** page.
-2. Extract the folder into `World of Warcraft/_forever_/Interface/AddOns/`.
-3. Restart the game or type `/reload`.
-
-## 🤝 Contributing
-
-Bug reports, data corrections, and feature requests are welcome from anyone, invited or not: **[report a problem](https://github.com/TIMID-Group/WoW-Forever-Addons/issues/new?template=bug_report.yml)** or **[suggest an idea](https://github.com/TIMID-Group/WoW-Forever-Addons/issues/new?template=feature_request.yml)**. Every addon's settings also have buttons that write the report for you. Pull requests will be reviewed by the full Board of Directors (one person) at their earliest convenience.
-
-## 📄 License
-
-MIT, copyright TIMID Group. Each repository carries its own LICENSE file.
+Installation, access requests, problem reports and ideas are handled by the **[WoW Forever Addons](https://github.com/TIMID-Group/WoW-Forever-Addons)** front office. Pull requests will be reviewed by the full Board of Directors (one person) at their earliest convenience.
 
 ---
 
@@ -157,4 +147,4 @@ MIT, copyright TIMID Group. Each repository carries its own LICENSE file.
 
 By installing a TIMID addon, you commit to a future of continuous improvement, technological excellence, and innovative fishing. TIMID ensures you are well equipped to meet the demands of tomorrow, regardless of growth, new ventures, or contraction of your bag space.
 
-<sub>*TIMID Group is not affiliated with Blizzard Entertainment. World of Warcraft is a trademark of Blizzard Entertainment, Inc.*</sub>
+<sub>*MIT licensed, copyright TIMID Group. TIMID Group is not affiliated with Blizzard Entertainment. World of Warcraft is a trademark of Blizzard Entertainment, Inc.*</sub>
