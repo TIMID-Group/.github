@@ -12,7 +12,7 @@
 ![fishing poles vendored](https://img.shields.io/badge/fishing%20poles%20vendored-0-brightgreen)
 ![board approval](https://img.shields.io/badge/board%20approval-pending-yellow)
 
-[Overview](#-overview) · [Product Portfolio](#-product-portfolio) · [Key Functions](#-key-functions) · [Strategic Goals](#-strategic-goals) · [Known Risks](#%EF%B8%8F-known-risks) · [Installation](#-installation) · [Contributing](#-contributing)
+[Overview](#-overview) · [Product Portfolio](#-product-portfolio) · [Key Functions](#%EF%B8%8F-key-functions) · [Strategic Goals](#-strategic-goals) · [Known Risks](#%EF%B8%8F-known-risks) · [Installation](#-installation) · [Contributing](#-contributing)
 
 </div>
 
