@@ -44,11 +44,11 @@ To seamlessly integrate useful tools into the game client, eliminate repetitive 
 | | Addon | Status | Description |
 |---|---|---|---|
 | 🎣 | **Forever Fishing Chart** | Released, invite only | Interactive fishing map built on the game's own world map. Waters, skill requirements, time-of-day rates and catch data where you actually need them, plus a fish finder and your own catch log. |
-| 💰 | **Forever Lowball** | Released, invite only | Holds a price ceiling on the auction house: posts your wall, buys what undercuts it, and reports every session's profit and gold per hour. |
 | 🛠️ | **Forever Workbench** | Released, invite only | A richer profession window: materials on hand on every recipe, vendor materials bought for you, your crafts sold back, and a crafting queue that buys, crafts and sells for you, step by step. |
 | 📒 | **Forever Crafting Ledger** | Released, invite only | What every recipe earns, from your cheapest materials to the best place to sell, with named shopping lists. |
 | 📜 | **Forever Quest Leftovers** | Released, invite only | Finds items in your bags and bank that no quest needs any more and says what to do with each. It only advises. |
 | 🔔 | **Forever Ding** | Released, invite only | Adds up the XP of the quests you can hand in and says whether you will level: in this zone and everywhere, or how much XP you would still need. |
+| 🛩️ | **TIMID Skunkworks** | Classified | Projects in development. Details are need-to-know. |
 
 Access to each addon is by invitation: [request access here](https://github.com/TIMID-Group/WoW-Forever-Addons/issues/new?template=request_access.yml).
 
