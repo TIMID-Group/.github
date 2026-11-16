@@ -8,6 +8,8 @@
 
 <a href="https://github.com/TIMID-Group/WoW-Forever-Addons"><img alt="WoW Forever Addons: the addons, install guide and reports" src="https://img.shields.io/badge/WoW%20Forever%20Addons-the%20addons%2C%20install%20and%20reports%20%E2%86%92-8a2be2?style=for-the-badge" height="56"></a>
 
+📣 **New: [Forever Workbench 2.0, the Crafting Queue](https://github.com/TIMID-Group/WoW-Forever-Addons/discussions/6)**
+
 ![staff](https://img.shields.io/badge/staff-1-blue)
 ![addons shipped](https://img.shields.io/badge/addons%20shipped-5-2ea44f)
 ![taint errors](https://img.shields.io/badge/taint%20errors-0%20(target)-brightgreen)
