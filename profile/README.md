@@ -6,7 +6,7 @@
 
 <a href="https://github.com/TIMID-Group/WoW-Forever-Addons"><img alt="WoW Forever Addons: the addons, install guide and reports" src="https://img.shields.io/badge/WoW%20Forever%20Addons-the%20addons%2C%20install%20and%20reports%20%E2%86%92-e8661c?style=for-the-badge" height="56"></a>
 
-📣 **New: [TIMID Group: one button, one panel, one home for every addon](https://github.com/TIMID-Group/WoW-Forever-Addons/discussions/31)**
+📣 **New: [Introducing Forever Ding](https://github.com/TIMID-Group/WoW-Forever-Addons/discussions/50)**
 
 ![staff](https://img.shields.io/badge/staff-1-0b1321)
 ![addons shipped](https://img.shields.io/badge/addons%20shipped-5-2ea44f)
@@ -48,6 +48,7 @@ To seamlessly integrate useful tools into the game client, eliminate repetitive 
 | 🛠️ | **Forever Workbench** | Released, invite only | A richer profession window: materials on hand on every recipe, vendor materials bought for you, your crafts sold back, and a crafting queue that buys, crafts and sells for you, step by step. |
 | 📒 | **Forever Crafting Ledger** | Released, invite only | What every recipe earns, from your cheapest materials to the best place to sell, with named shopping lists. |
 | 📜 | **Forever Quest Leftovers** | Released, invite only | Finds items in your bags and bank that no quest needs any more and says what to do with each. It only advises. |
+| 🔔 | **Forever Ding** | Released, invite only | Adds up the XP of the quests you can hand in and says whether you will level: in this zone and everywhere, or how much XP you would still need. |
 
 Access to each addon is by invitation: [request access here](https://github.com/TIMID-Group/WoW-Forever-Addons/issues/new?template=request_access.yml).
 
