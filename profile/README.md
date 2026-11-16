@@ -48,7 +48,7 @@ To seamlessly integrate useful tools into the game client, eliminate repetitive 
 | 📒 | **Forever Crafting Ledger** | Released, invite only | What every recipe earns, from your cheapest materials to the best place to sell, with named shopping lists. |
 | 📜 | **Forever Quest Leftovers** | Released, invite only | Finds items in your bags and bank that no quest needs any more and says what to do with each. It only advises. |
 | 🔔 | **Forever Ding** | Released, invite only | Adds up the XP of the quests you can hand in and says whether you will level: in this zone and everywhere, or how much XP you would still need. |
-| 🛩️ | **TIMID Skunkworks** | Classified | Projects in development. Details are need-to-know. |
+| 🚪 | **Room 404** | Classified | Projects in development. If you can't find it, you weren't meant to. |
 
 Access to each addon is by invitation: [request access here](https://github.com/TIMID-Group/WoW-Forever-Addons/issues/new?template=request_access.yml).
 
