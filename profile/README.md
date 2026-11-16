@@ -6,7 +6,7 @@
 
 <a href="https://github.com/TIMID-Group/WoW-Forever-Addons"><img alt="WoW Forever Addons: the addons, install guide and reports" src="https://img.shields.io/badge/WoW%20Forever%20Addons-the%20addons%2C%20install%20and%20reports%20%E2%86%92-e8661c?style=for-the-badge" height="56"></a>
 
-📣 **New: [The TIMID button, one panel for every addon](https://github.com/TIMID-Group/WoW-Forever-Addons/discussions/31)**
+📣 **New: [TIMID Group: one button, one panel, one home for every addon](https://github.com/TIMID-Group/WoW-Forever-Addons/discussions/31)**
 
 ![staff](https://img.shields.io/badge/staff-1-0b1321)
 ![addons shipped](https://img.shields.io/badge/addons%20shipped-5-2ea44f)
