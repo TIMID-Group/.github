@@ -28,6 +28,8 @@ To lead the player base into a future defined by technological excellence and in
 
 ### 🎯 Mission
 
+<p align="center"><img src="https://raw.githubusercontent.com/TIMID-Group/.github/main/profile/timid-mandate.png" alt="Our mandate: integrate systems, automate processes, enable better decisions, support growth" width="360"></p>
+
 To seamlessly integrate useful tools into the game client, eliminate repetitive tasks, and ensure sustained growth of the user's bags, gold, and fishing skill.
 
 ---
@@ -52,6 +54,10 @@ Access to each addon is by invitation: [request access here](https://github.com/
 ---
 
 ## ⚙️ Key Functions
+
+<p align="center"><img src="https://raw.githubusercontent.com/TIMID-Group/.github/main/profile/timid-functions.png" alt="TIMID capabilities: cloud solutions, analytics and reporting, automation, development, security, data integration, systems architecture, monitoring and observability, infrastructure, innovation" width="640"></p>
+
+*All ten capabilities are delivered by the same person, usually between fishing pools.*
 
 ### 1. Data Integration
 - **Objective:** Get the right information onto the screen at the right time.
@@ -89,6 +95,16 @@ Access to each addon is by invitation: [request access here](https://github.com/
   - Fishing poles accidentally vendored (target: 0)
 
 ---
+
+## 🏗️ Project Lifecycle
+
+<p align="center"><img src="https://raw.githubusercontent.com/TIMID-Group/.github/main/profile/timid-lifecycle.png" alt="Project lifecycle: Bid, Build, Closeout" width="640"></p>
+
+| Phase | What it means at TIMID |
+|---|---|
+| **Bid** | A player reports a problem or an idea from inside the game. The Board (one person) accepts the bid. |
+| **Build** | The department designs it, builds it and runs thousands of tests against a fake World of Warcraft. |
+| **Closeout** | A release ships through WowUp, the report is answered and closed, and the punch list is filed. |
 
 ## 💼 Additional Value Propositions
 
@@ -142,6 +158,8 @@ Whether the realm grows, the patch changes, or the department reduces in size (i
 Installation, access requests, problem reports and ideas are handled by the **[WoW Forever Addons](https://github.com/TIMID-Group/WoW-Forever-Addons)** front office. Pull requests will be reviewed by the full Board of Directors (one person) at their earliest convenience.
 
 ---
+
+<p align="center"><img src="https://raw.githubusercontent.com/TIMID-Group/.github/main/profile/timid-footer.png" alt="Secure by design. Scalable by nature. Driven by data. Built for collaboration." width="100%"></p>
 
 ## 🏁 Conclusion
 
