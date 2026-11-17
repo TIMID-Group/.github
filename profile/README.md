@@ -6,7 +6,7 @@
 
 <a href="https://github.com/TIMID-Group/WoW-Forever-Addons"><img alt="WoW Forever Addons: the addons, install guide and reports" src="https://img.shields.io/badge/WoW%20Forever%20Addons-the%20addons%2C%20install%20and%20reports%20%E2%86%92-e8661c?style=for-the-badge" height="56"></a>
 
-📣 **New: [Introducing Forever Ding](https://github.com/TIMID-Group/WoW-Forever-Addons/discussions/50)**
+📣 **New: [Deep chains: Forever Workbench 2.5 and Forever Crafting Ledger 1.9](https://github.com/TIMID-Group/WoW-Forever-Addons/discussions/71)** · [Coming soon: two new addons](https://github.com/TIMID-Group/WoW-Forever-Addons/discussions/72)
 
 ![staff](https://img.shields.io/badge/staff-1-0b1321)
 ![addons shipped](https://img.shields.io/badge/addons%20shipped-5-2ea44f)
